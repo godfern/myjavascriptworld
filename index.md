@@ -15,7 +15,7 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
   Differernt falsey values are _empty strings, the number 0, undefined, null, false, NaN_
   Inorder to check explicitly undefined and null values we can us **??**
   
-  ### Example
+  ###Example
  
   ```markdown
     //Nullish Coalescing ??
@@ -32,5 +32,37 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
     console.log(null || "Flipkart Wholesale") 
   ```
   
- [JS Fiddle](https://twitter.com/godfernThirteen) 
+ [JS Fiddle](https://jsfiddle.net/godfern13/jw38poan/8/) 
+ 
+ 
+ 2. **Optional Chaining**
+  Optional chaining syntax allows you to access deeply nested object properties without worrying if the property exists or not. 
+  If it exists, great! If not, undefined will be returned. **?.**
+  
+  ###Example
+ 
+  ```markdown
+    //Optional Chaining
+    let developers = {
+      frontend:{
+        javascript: "Yes",
+        react: "Yes",
+        java: "No",
+        node:"Yes",
+        otherActivities:[
+          "Sleeps","Eats","Smokes","Drinks","Party"
+        ]
+      },
+      backend:{
+        javascript: "No",
+        react: "No",
+        java: "Yes"
+      }
+    }
+
+    console.log(developers.frontend.java);
+    console.log(developers.backend.otherActivities?.[0]); 
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/j2q5hy7z/7/) 
  
