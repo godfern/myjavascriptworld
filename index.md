@@ -16,19 +16,21 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
   Inorder to check explicitly undefined and null values we can us **??**
   
  ### Example
+ 
   ```markdown
-  //Nullish Coalescing ??
-  console.log(false ?? "Flipkart Wholesale")
-  console.log(false || "Flipkart Wholesale")
+    //Nullish Coalescing ??
+    console.log(false ?? "Flipkart Wholesale")
+    console.log(false || "Flipkart Wholesale")
 
-  console.log(undefined ?? "Flipkart Wholesale")
-  console.log(undefined || "Flipkart Wholesale")
+    console.log(undefined ?? "Flipkart Wholesale")
+    console.log(undefined || "Flipkart Wholesale")
 
-  console.log(null ?? "Flipkart Wholesale")
-  console.log(null || "Flipkart Wholesale")
+    console.log(null ?? "Flipkart Wholesale")
+    console.log(null || "Flipkart Wholesale")
 
-  console.log(0 ?? "Flipkart Wholesale")
-  console.log(null || "Flipkart Wholesale") ```
+    console.log(0 ?? "Flipkart Wholesale")
+    console.log(null || "Flipkart Wholesale") 
+  ```
   
  [JS Fiddle](https://twitter.com/godfernThirteen) 
  
