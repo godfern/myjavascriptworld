@@ -66,3 +66,29 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
   
  [JS Fiddle](https://jsfiddle.net/godfern13/j2q5hy7z/7/) 
  
+ 
+ 3. **new Map**
+  The Map object holds key-value pairs and remembers the original insertion order of the keys. **new Map()**
+  
+  ###Example
+ 
+  ```markdown
+    //new Map()
+    var map = new Map([[ 1, 'Bitcoin' ],[ 2, 'Ethereum' ], [ 3, 'Ripple' ],[ 4, 'Litecoin' ]]);
+
+
+    map.set(1, "Tron");
+    map.delete(2); 
+    console.log(map.size); //map size
+    console.log(map.get(1)) 
+
+
+    for (const [key, value] of map) {
+      console.log(key, value);
+    } 
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/yzfvdq7b/14/) 
+ 
+ 
+ 
