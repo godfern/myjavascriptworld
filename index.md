@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## About the Author
 
-You can use the [editor on GitHub](https://github.com/godfern/myjavascriptworld/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Existence for around 9 years in the tech world. Last seen on github ## OCT 21st 2021 @11.51.16AM with 2 Contributions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+Twitter:
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 
 ### Markdown
 
