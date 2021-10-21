@@ -116,6 +116,19 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
     birds.clear();
   ```
   
+ [JS Fiddle](https://jsfiddle.net/godfern13/qLx7npfa/9/)
+ 
+ 
+ 5. **Array.fill()**
+  Using the Array.fill method is an obvious choice — you supply the method with the value you want to populate your array with, and the method returns a modified   version of the array. **Array.fill()**
+  
+  ###Example
+ 
+  ```markdown
+    let filledArray = new Array(10).fill('hello');
+    console.log(filledArray)
+  ```
+  
  [JS Fiddle](https://jsfiddle.net/godfern13/qLx7npfa/9/) 
  
  
