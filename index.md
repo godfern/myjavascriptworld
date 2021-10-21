@@ -2,12 +2,10 @@
 
 Existence for around 9 years in the tech world. Last seen on github ## OCT 21st 2021 @11.51.16AM with 2 Contributions.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
-Twitter:
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+
+![GitHub Logo](/images/logo.png) [Twitter](https://twitter.com/godfernThirteen)
 
 
 ### Markdown
