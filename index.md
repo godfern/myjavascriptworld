@@ -5,9 +5,8 @@ Existence for around 9 years in the tech world. Last seen on github ## OCT 21st 
 
 ## You can find me :point_down:
 
-[:flamingo:] (https://twitter.com/godfernThirteen) :earth_asia: (http://godfreyfernandes.com/) :camera_flash: https://www.instagram.com/godfern13/
+[ :flamingo: ](https://twitter.com/godfernThirteen) [:earth_asia:](http://godfreyfernandes.com/) :camera_flash: https://www.instagram.com/godfern13/
 [GitHub](http://github.com)
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
 ### Markdown
