@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: JS at it's latest
 description: New features about Javascript!
+plugins:
+  - jemoji
