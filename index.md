@@ -187,7 +187,7 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
  [JS Fiddle](https://jsfiddle.net/godfern13/fdqj3bcy/2/) 
  
  
- 8. **Includes**
+ 9. **Includes**
   Returns true if an array includes a value, if not returns false. #es7
   
   ###Example
@@ -198,6 +198,19 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
   ```
   
  [JS Fiddle](https://jsfiddle.net/godfern13/u9xvhes1/3/) 
+ 
+ 
+ 10. **padstart**
+  This method pads a string with another string at the beginning.. #es8
+  
+  ###Example
+ 
+  ```markdown
+    let str = 'Godfrey';
+    console.log(str.padStart(3,'#')) //###Godfrey
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/ke72gxco/1/) 
  
  
  
