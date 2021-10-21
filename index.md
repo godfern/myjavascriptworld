@@ -1,12 +1,11 @@
 ## About the Author
 
-Existence for around 9 years in the tech world. Last seen on github ## OCT 21st 2021 @11.51.16AM with 2 Contributions.
+Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2021 @11.51.16AM with 2 Contributions**.
 
 
-## You can find me :point_down:
+## You can find me :point_down: _Click to check_
 
-[ :flamingo: ](https://twitter.com/godfernThirteen) [:earth_asia:](http://godfreyfernandes.com/) :camera_flash: https://www.instagram.com/godfern13/
-[GitHub](http://github.com)
+[:flamingo:](https://twitter.com/godfernThirteen)  [:earth_asia:](http://godfreyfernandes.com/)  [:camera_flash:](https://www.instagram.com/godfern13/)
 
 
 ### Markdown
