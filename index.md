@@ -88,7 +88,35 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
     } 
   ```
   
- [JS Fiddle](https://jsfiddle.net/godfern13/yzfvdq7b/14/) 
+ [JS Fiddle](https://jsfiddle.net/godfern13/yzfvdq7b/18/) 
+ 
+ 
+ 4. **new Set**
+  A Set is a special type of object in ES6 that lets you create a collection of unique values. **new Set()**
+  
+  ###Example
+ 
+  ```markdown
+    //new Set()
+    const birds = new Set();
+    // add items
+    birds.add('🐦');
+    birds.add('🦉');
+    birds.add('🦆');
+    birds.add('🦅');
+    // check if item exists
+    birds.has('🦉'); // true
+    birds.has('🐥'); // false
+    // get items count
+    birds.size; // 4
+    // delete item
+    birds.delete('🦆'); // true
+    birds.delete('🦆'); // false - already deleted
+    // delete all items
+    birds.clear();
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/qLx7npfa/9/) 
  
  
  
