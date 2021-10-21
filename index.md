@@ -166,7 +166,25 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
     func(1,2,3,4)
   ```
   
- [JS Fiddle](https://jsfiddle.net/godfern13/eck5q27g/3/) 
+ [JS Fiddle](https://jsfiddle.net/godfern13/uz1dc8r0/1/) 
+ 
+ 
+ 8. **Destructuring**
+  Destructuring helps in unpacking values from an array or an object.
+  
+  ###Example
+ 
+  ```markdown
+    const arr = [1,2,3];
+    const [x,y] = arr;
+    console.log(x,y)
+
+    const obj = {a:1,b:2,c:3};
+    const {a,b,c}= obj;
+    console.log(a,b,c)
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/fdqj3bcy/2/) 
  
  
  
