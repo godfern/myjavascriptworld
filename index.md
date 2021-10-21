@@ -187,4 +187,17 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
  [JS Fiddle](https://jsfiddle.net/godfern13/fdqj3bcy/2/) 
  
  
+ 8. **Includes**
+  Returns true if an array includes a value, if not returns false. #es7
+  
+  ###Example
+ 
+  ```markdown
+    let numbers = [1,2,3];
+    console.log(numbers.includes(4));
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/u9xvhes1/3/) 
+ 
+ 
  
