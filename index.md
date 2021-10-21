@@ -3,39 +3,32 @@
 Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2021 @11.51.16AM with 2 Contributions**.
 
 
-## You can find me :point_down: _Click to check_
+## You can find me :point_down:
 
-[:flamingo:](https://twitter.com/godfernThirteen)  [:earth_asia:](http://godfreyfernandes.com/)  [:camera_flash:](https://www.instagram.com/godfern13/)
+[Twitter](https://twitter.com/godfernThirteen)  [:earth_asia:](http://godfreyfernandes.com/)  [Instagram](https://www.instagram.com/godfern13/)
 
 
-### Markdown
+## Let's get started...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **Nullish Coalescing**
+  Nullish coalescing adds the ability to truly check nullish values instead of falsey values.
+  Differernt falsey values are _empty strings, the number 0, undefined, null, false, NaN_
+  Inorder to check explicitly undefined and null values we can us **??**
+  
+ ### Example ###
+  ```markdown
+  //Nullish Coalescing ??
+  console.log(false ?? "Flipkart Wholesale")
+  console.log(false || "Flipkart Wholesale")
 
-```markdown
-Syntax highlighted code block
+  console.log(undefined ?? "Flipkart Wholesale")
+  console.log(undefined || "Flipkart Wholesale")
 
-# Header 1
-## Header 2
-### Header 3
+  console.log(null ?? "Flipkart Wholesale")
+  console.log(null || "Flipkart Wholesale")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/godfern/myjavascriptworld/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  console.log(0 ?? "Flipkart Wholesale")
+  console.log(null || "Flipkart Wholesale") 
+  
+ [JS Fiddle](https://twitter.com/godfernThirteen) 
+ 
