@@ -132,4 +132,26 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
  [JS Fiddle](https://jsfiddle.net/godfern13/qLx7npfa/9/) 
  
  
+ 6. **reduceRight()**
+  It is quite same to reduce method, except for the traversal that happens from right to left.. **reduceRight()**
+  
+  ###Example
+ 
+  ```markdown
+    const arr = [1,2,3,4,5]
+    const result1 = arr.reduce((total,currVal1)=>{
+      console.log(currVal1);
+      return total + currVal1;
+    })
+
+    const result2 = arr.reduceRight((total,currVal2)=>{
+      console.log(currVal2);
+      return total + currVal2;
+    })
+    console.log(result1);
+  ```
+  
+ [JS Fiddle](https://jsfiddle.net/godfern13/eck5q27g/3/) 
+ 
+ 
  
