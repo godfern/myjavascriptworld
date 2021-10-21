@@ -15,7 +15,7 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
   Differernt falsey values are _empty strings, the number 0, undefined, null, false, NaN_
   Inorder to check explicitly undefined and null values we can us **??**
   
- ### Example ###
+ ### Example
   ```markdown
   //Nullish Coalescing ??
   console.log(false ?? "Flipkart Wholesale")
@@ -28,7 +28,7 @@ Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2
   console.log(null || "Flipkart Wholesale")
 
   console.log(0 ?? "Flipkart Wholesale")
-  console.log(null || "Flipkart Wholesale") 
+  console.log(null || "Flipkart Wholesale") ```
   
  [JS Fiddle](https://twitter.com/godfernThirteen) 
  
