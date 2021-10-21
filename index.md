@@ -1,6 +1,6 @@
 ## About the Author
 
-Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2021 @11.51.16AM with 2 Contributions**.
+Existence for around 9 years in the tech world. Last seen on github **OCT 21st 2021 @4.02.16PM with 2 Contributions**.
 
 
 ## You can find me :point_down:
